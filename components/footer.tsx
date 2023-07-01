@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="container">
             <div className="row">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Reaction Agency 2023</span>
+          <span className="copyright">Copyright &copy; Searchable SEO Agency 2023</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
